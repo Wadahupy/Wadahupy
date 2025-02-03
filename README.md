@@ -37,8 +37,9 @@
 
 ### 📊 GitHub Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wadahupy)](https://github.com/Wadahupy/github-readme-stats)
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wadahupy)](https://github.com/Wadahupy/github-readme-stats)
+  
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/> -->
 </p>
 
