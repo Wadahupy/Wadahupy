@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi There, I'm Denzel C. Quilatan!
 
-🚀 **Aspiring Software Engineer** | 💻 **Front-end Developer**
+🚀 **Aspiring Software Engineer** | 💻 **Front-end Developer** | 🎯**Full-Stack Developer** |
 
 ---
 
@@ -8,10 +8,10 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://play-lh.googleusercontent.com/ekpyJiZppMBBxCR5hva9Zz1pr3MYlFP-vWTYR3eIU7HOMAmg3jCJengHJ1GFgFMyyYc" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="40"/>
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -28,19 +28,22 @@
 
 ### 🚀 Projects
 
-- 🐾 **[Pet Cemetery Management System](#)** - Smart memorialization using ML & RL  
+- 🐾 **[GooodieMap](#)** - Grocery section mapping system with built-in scanner 
 - ❤️ **[Heart Sound Classification Model](#)** - Detecting abnormal heartbeats with CNN-LSTM  
-- 🍏 **[Predictive Diet Analysis](#)** - ML-based personalized nutrition recommendations  
-- 😊 **[Text Emotion Prediction Model](#)** - Classifying emotions from text data  
+- 😊 **[Emotion Prediction Model](#)** - Classifying emotions from text and audio data
+- 📕 **[Library Management System](#)** - Contains colection of open-source programming books
+- 🍏 **[Weather App](#)** - Real-time weather report using Weather API and React + Tailwind
+- ✏ **[Todo App](#)** - Web-based todolist using React and Tailwind
+- 💵 **[Budget Monitoring System](#)** - Budget management application using C#
 
 ---
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wadahupy)](https://github.com/Wadahupy/github-readme-stats)
 <p align="center">
-  
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/> -->
+
+  <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wadahupy&show_icons=true" alt="GitHub Stats"/>
+  <img width="47%"  height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadahupy&layout=donut" alt="GitHub Language"/>
 </p>
 
 ---
@@ -56,11 +59,11 @@
 ### 📫 Let's Connect!
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/denzel-quilatan-90aab6331/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
+  <a href="mailto:quilatandenzel@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40" height="40" alt="Email"/>
   </a>
   <a href="https://your-portfolio.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Portfolio"/>
