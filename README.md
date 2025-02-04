@@ -1,6 +1,6 @@
 # 👋 Hi There, I'm Denzel C. Quilatan!
 
-🚀 **Aspiring Software Engineer** | 💻 **Front-end Developer** | 🎯**Full-Stack Developer** |
+🚀 **Aspiring Software Engineer** | 💻 **Front-end Developer** | 🎯**Full-Stack Developer** | ✨UI/UX Designer
 
 ---
 
